@@ -1,10 +1,13 @@
-# StockFinder
-
+# Stock Finder
+Access the applicaton here: https://rachelkline.github.io/WhatTheStock/
 ![alt text](WTS.png)
 
 To see our presentaion, follow this link: https://docs.google.com/presentation/d/13ZHYQ5KhKAnB02deQCaT-3F7tFNhgLpUZ1nIpfaUGvI/edit?usp=sharing
 
 Welcome to my repository for our group project, WHAT THE STOCK!! This project was originally created in one of my group member's repositories, and then I created my own repository to hold this project after we finished collaborating. I plan to continue to work on this website, as I am really proud of our application!
+
+To see the commit history for the group project, please click this link!
+https://github.com/rachelkline/StockFinder
 
 The StockFinder website, which we called "What the Stock", was our first collaborative coding project.  We had a list of criteria given to us which we followed. It included the use of at leat two API's, one of which had to be something other than what we used in class.  We used four API's, none of which were ones we used in class. Our criteria also included the use of a CSS framework other than Bootstrap.  We used a framework called "Bulma", which was fairly intuitive and we easily adapted to it.
 
@@ -20,8 +23,5 @@ We met in our Zoom classroom breakout rooms during class and office hours, then 
   learning how to use gitHub and its various components to manage a project, and learning when to ask for help from external sources.
   
 Here are some screenshots of our finished and deployed site:
-
-
-You can access our site through this link: https://rachelkline.github.io/WhatTheStock/
 
 We hope you enjoy perusing our site.
